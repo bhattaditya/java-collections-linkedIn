@@ -1,3 +1,3 @@
-## Java Collections 
+Declaring collection (roomInventory)
 
-Each branch different topic
+Adding & removing objects from collection
