@@ -1,5 +1,7 @@
-Checking in Collections without modifying them.
+## Collection Iteration
 
-- contains - checks whether collection contains specific object or not
-- toArray() - converting collection to array
-- removeIf() - based on condition
+ - iterator() - before java 5
+ - forEach() - after java 5
+ - stream() - introduced in java 8
+
+lambda expressions can be used to represent the instance of a functional interface.
